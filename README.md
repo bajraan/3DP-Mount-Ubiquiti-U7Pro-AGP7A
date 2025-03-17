@@ -19,7 +19,6 @@
 > [!IMPORTANT]
 > **in progress.**
 
-
 ```markdown
                    **SCREWS INDEX**
 |----------------------------------------------------------------------------------------|
@@ -28,10 +27,10 @@
 | 1  | MOUNT__Stand                          | x 1 | Print                               |
 | 2  | HINGE__Cable_Retainer                 | x 1 | Print                               |
 | 3  | HINGE__Drill_Guide                    | x 1 | Print                               |
-| 4  | Screw DIN7985   M3x20  **or any similar** | x 2 | Connects steel plate with stand     |
-| 5  | Nut             M3     **or any similar** | x 2 | Connects steel plate with stand     |
-| 6  | Screw Furniture M8X55  **or any similar** | x 4 | Connects furniture back with Stand  |
-| 7  | Screw dinisoaaa DIN    **or any similar** | x 3 | Connects Stand with Cable_Retainer  |
+| 4  | Screw DIN7985   M3x20  or any similar | x 2 | Connects steel plate with stand     |
+| 5  | Nut             M3     or any similar | x 2 | Connects steel plate with stand     |
+| 6  | Screw Furniture M8X55  or any similar | x 4 | Connects furniture back with Stand  |
+| 7  | Screw dinisoaaa DIN    or any similar | x 3 | Connects Stand with Cable_Retainer  |
 |----------------------------------------------------------------------------------------|
 ```
 
@@ -55,63 +54,11 @@
 <!-- VARIANTS SECTION -->
 
 
-
-<p align="center">
-    <font size="10"><b>VARIANTS</b></font><br>
-</p>
-
-<div align="center">
-    <img src="05_Inkscape\Variants___Page 1.png" width="600" height="600"/>
-</div>
-
-<div align="center">
-    <img src="05_Inkscape\Variants___Page 2.png" width="600" height="600"/>
-</div>
-
-<!-- TechDraw SECTION -->
-<!-- TechDraw SECTION -->
-<!-- TechDraw SECTION -->
-
-<p align="center">
-    <font size="10"><b>DIMENSIONS</b></font><br>
-</p>
-
-<div align="center">
-    <img src="05_Inkscape\TechDraw_200X200_Page_3.png"/>
-</div>
-
 <!-- GALLERY SECTION -->
 <!-- GALLERY SECTION -->
 <!-- GALLERY SECTION -->
 
-
-
-<p align="center">
-    <font size="10"><b>GALLERY</b></font><br>
-</p>
-
-<div align="center">
-    <img src="05_Inkscape\Page_02.png" width="600" height="600"/>
-</div>
-
-<div align="center">
-    <img src="05_Inkscape\Page_04.png" width="600" height="600"/>
-</div>
-
-<div align="center">
-    <img src="05_Inkscape\Page_06.png" width="600" height="600"/>
-</div>
-
-<div align="center">
-    <img src="02_Docs\resources_readme\OrcaSlicer.svg" width="100" height="100"/>
-    <img src="02_Docs\resources_readme\FreeCAD.svg" width="100" height="100"/>
-</div>
 
 <!-- End README -->
-
-<p align="center">
-    <font size="5"><b>3DP-DurableHinge-V2</b></font><br>
-    <font size="4">Durable hinge with enhanced steel components</font>
-</p>
 
 <!-- github background #0d1117 -->
