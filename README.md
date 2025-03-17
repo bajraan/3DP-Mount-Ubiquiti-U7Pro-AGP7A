@@ -36,18 +36,28 @@
 
 
 <div align="center">
-     <img src="05_Inkscape\Page_01.png" width="600" height="600"/>
+     <img src="01_Screens\Screen_1.png" />
 </div>
 
 <div align="center">
-    <img src="05_Inkscape\Page_03.png" width="600" height="600"/>
+     <img src="01_Screens\Screen_3.png" />
 </div>
 
 <div align="center">
-    <img src="05_Inkscape\Page_05.png" width="600" height="600"/>
+     <img src="01_Screens\Screen_2.png" />
 </div>
 
+<div align="center">
+    <figure>
+        <figcaption style="text-align: center; font-weight: bold;">Twój podpis nad obrazem</figcaption>
+        <img src="01_Screens/Screen_3.png" alt="Opis obrazu">
+    </figure>
+</div>
 
+<div align="center">
+    <p style="text-align: center; font-weight: bold;">Twój podpis nad obrazem</p>
+    <img src="01_Screens/Screen_3.png" alt="Opis obrazu">
+</div>
 
 <!-- VARIANTS SECTION -->
 <!-- VARIANTS SECTION -->
