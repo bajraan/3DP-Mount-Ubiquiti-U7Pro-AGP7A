@@ -17,38 +17,22 @@
 
 
 > [!IMPORTANT]
-> **This model consists of a few variants. Check the list below and choose the one that best fits your needs.**
+> **in progress.**
+
 
 ```markdown
-                   **PIN VARIANTS**
-|---------------------------------------------------------------------------|
-| A  | Metal rod M8 and Ericsson nut                                        |
-| B  | Printed pin                                                          |
-| C  | Metal DIN912 screw and nut                                           |
-|---------------------------------------------------------------------------|
-                   **MOUNTING VARIANTS**
-|---------------------------------------------------------------------------|
-| G  | Metal DIN912 screw and wood insert                                   |
-| H  | Pocket screw MILESCRAFT 5201                                         |
-|---------------------------------------------------------------------------|
-                   **COMPONENT INDEX**
-|---------------------------------------------------------------------------|
-|MOUNT| PIN | nr | Part name                    | cnt | Comment             |
-|-----|-----|----|------------------------------|-----|---------------------|
-| ALL | ALL | 1  | HINGE__Base                  | x 1 | Print               |
-| ALL | ALL | 2  | HINGE__Arm                   | x 1 | Print               |
-|     |  A  | 3  | Ericsson flat head nut M8    | x 2 | wood furniture Part |
-|     |  A  | 4  | Steel threaded rod     M8X55 | x 1 | wood furniture Part |
-|  G  |     | 5  | Screw DIN912           M5X20 | x 6 | Regular steel Part  |
-|  G  |     | 6  | Wood insert nut        M5X12 | x 6 | wood furniture Part |
-|     |  B  | 7  | HINGE__Pin                   | x 1 | Print               |
-|     |  B  | 8  | HINGE__Pin_Nut               | x 1 | Print               |
-|     |     | 9  |                              |     |                     |
-|     |  C  | 10 | Screw DIN912           M8X75 | x 1 | Regular steel Part  |
-|     |  C  | 11 | Nut                    M8    | x 1 | Regular steel Part  |
-|     |  C  | 12 | HINGE__Spacer                | x 2 | Print               |
-|  H  |     | 13 | Pocket Screw MILESCRAFT 5201 | x 6 | wood furniture Part |
-|---------------------------------------------------------------------------|
+                   **SCREWS INDEX**
+|----------------------------------------------------------------------------------------|
+| nr | Part name                             | cnt | Comment                             |
+|----|---------------------------------------|-----|-------------------------------------|
+| 1  | MOUNT__Stand                          | x 1 | Print                               |
+| 2  | HINGE__Cable_Retainer                 | x 1 | Print                               |
+| 3  | HINGE__Drill_Guide                    | x 1 | Print                               |
+| 4  | Screw DIN7985   M3x20  **or any similar** | x 2 | Connects steel plate with stand     |
+| 5  | Nut             M3     **or any similar** | x 2 | Connects steel plate with stand     |
+| 6  | Screw Furniture M8X55  **or any similar** | x 4 | Connects furniture back with Stand  |
+| 7  | Screw dinisoaaa DIN    **or any similar** | x 3 | Connects Stand with Cable_Retainer  |
+|----------------------------------------------------------------------------------------|
 ```
 
 
