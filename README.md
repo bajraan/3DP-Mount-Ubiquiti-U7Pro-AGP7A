@@ -59,6 +59,11 @@
 <!-- GALLERY SECTION -->
 
 
-<!-- End README -->
+<div align="center">
+    <img src="02_Docs\resources_readme\OrcaSlicer.svg" width="100" height="100"/>
+    <img src="02_Docs\resources_readme\FreeCAD.svg" width="100" height="100"/>
+</div>
 
+
+<!-- End README -->
 <!-- github background #0d1117 -->
