@@ -13,11 +13,14 @@
     <br>
 </p>
 
+> [!NOTE]
+> **DESCRIPTIONS ...**
 
 
+<div align="center">
+    <img src="05_Inkscape\FotoBook_Page 1.png"/>
+</div>
 
-> [!IMPORTANT]
-> **in progress.**
 
 ```markdown
                    **SCREWS INDEX**
@@ -29,67 +32,31 @@
 | 3  | HINGE__Drill_Guide                | x 1 | Print                               |
 | 4  | Screw  M3x20       or any similar | x 4 | Connects steel plate with stand     |
 | 5  | Nut    M3          or any similar | x 4 | Connects steel plate with stand     |
-| 6  | Screw  M8X15       or any similar | x 4 | Connects furniture back with Stand  |
-| 7  | Screw  M5X20       or any similar | x 4 | Connects Stand with Cable_Retainer  |
+| 6  | Screw  M5X20       or any similar | x 4 | Connects Stand with Cable_Retainer  |
+| 7  | Screw  M8X15       or any similar | x 4 | Connects furniture back with Stand  |
 |------------------------------------------------------------------------------------|
 ```
-
-
 <div align="center">
-     <img src="01_Screens\Screen_1.png" />
-</div>
-
-<div align="center">
-     <img src="01_Screens\Screen_3.png" />
-</div>
-
-<div align="center">
-     <img src="01_Screens\Screen_2.png" />
-</div>
-
-
-</br></br></br>
-<div align="center">
-    <figure>
-        <figcaption style="text-align: center; font-weight: bold;">Twój podpis nad obrazem</figcaption>
-        <img src="01_Screens/Screen_1.png" alt="Opis obrazu">
-    </figure>
+    <img src="05_Inkscape\FotoBook_Page 3.png"/>
 </div>
 
 </br></br></br>
+
 <div align="center">
-    <figure>
-        <figcaption style="text-align: center; font-weight: bold;">Twój podpis nad obrazem</figcaption>
-        <img src="01_Screens/Screen_2.png" alt="Opis obrazu">
-    </figure>
+    <p style="text-align: center; font-weight: bold;">1 MOUNT__Stand</p>
+    <img src="01_Screens/Screen_1.png" alt="Opis obrazu">
 </div>
 
-</br></br></br>
+</br></br>
 <div align="center">
-    <figure>
-        <figcaption style="text-align: center; font-weight: bold;">Twój podpis nad obrazem</figcaption>
-        <img src="01_Screens/Screen_3.png" alt="Opis obrazu">
-    </figure>
-</div>
-
-</br></br></br></br></br></br></br>
-</br></br></br></br></br></br></br>
-
-<div align="center">
-    <p style="text-align: center; font-weight: bold;">Twój podpis nad obrazem</p>
+    <p style="text-align: center; font-weight: bold;">2 HINGE__Cable_Retainer </p>
     <img src="01_Screens/Screen_3.png" alt="Opis obrazu">
 </div>
 
-</br></br></br>
+</br></br>
 <div align="center">
-    <p style="text-align: center; font-weight: bold;">Twój podpis nad obrazem</p>
-    <img src="01_Screens/Screen_3.png" alt="Opis obrazu">
-</div>
-
-</br></br></br>
-<div align="center">
-    <p style="text-align: center; font-weight: bold;">Twój podpis nad obrazem</p>
-    <img src="01_Screens/Screen_3.png" alt="Opis obrazu">
+    <p style="text-align: center; font-weight: bold;">3 HINGE__Drill_Guide</p>
+    <img src="01_Screens/Screen_2.png" alt="Opis obrazu">
 </div>
 
 <!-- VARIANTS SECTION -->
@@ -99,6 +66,8 @@
 <!-- GALLERY SECTION -->
 <!-- GALLERY SECTION -->
 <!-- GALLERY SECTION -->
+
+---
 
 <div align="center">
     <img src="02_Docs\resources_readme\OrcaSlicer.svg" width="100" height="100"/>
